@@ -10,7 +10,8 @@ This project is aimed to develop a garbage classification system using the ResNe
 
 ### Inferences:
 - **Accuracy: 95%**
-- **Weighted Avg. F1 score : 95%**
+- **Macro Avg. F1 score: 94%**
+- **Weighted Avg. F1 score: 95%**
   
 #### Dataset:
 https://www.kaggle.com/datasets/farzadnekouei/trash-type-image-dataset/data
